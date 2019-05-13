@@ -8,10 +8,7 @@ nav{
     height: 200px;
     float: left;
 }
-footer{
-    background-color: #697072;
-    clear: both;
-}
+
 
 ul{
  margin-left: -33px;
@@ -37,4 +34,8 @@ footer{
     text-decoration: none;
     font-size: 16px;
     text-align: left;
+    background-color: #697072;
+    clear: both;
+    padding: 2px;
+    text-align: center;
 }
