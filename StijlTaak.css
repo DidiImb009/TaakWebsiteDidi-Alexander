@@ -5,7 +5,7 @@ body{
 nav{
     background-color: #697072;
     width: 120px;
-    height: 400px;
+    height: 580px;
     float: left;
 }
 
@@ -54,4 +54,3 @@ table{
 main{
     margin-left:120px;
 }
-
