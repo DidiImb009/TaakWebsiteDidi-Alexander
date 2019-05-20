@@ -4,7 +4,7 @@ body{
 }
 nav{
     background-color: #697072;
-    width: 120px;
+    width: 10%;
     height: 580px;
     float: left;
 }
@@ -38,7 +38,7 @@ footer{
     clear: both;
     padding: 2px;
     text-align: center;
-    width: 754px;
+    width: 100%;
 }
 
 div{
@@ -47,10 +47,11 @@ div{
 }
 
 table{
-    margin-left: 120px;
+
 
 }
 
 main{
-    margin-left:120px;
+    margin-left:20%;
+
 }
