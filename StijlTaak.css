@@ -5,7 +5,7 @@ body{
 nav{
     background-color: #697072;
     width: 10%;
-    height: 580px;
+    height: 600px;
     float: left;
 }
 
@@ -54,4 +54,23 @@ table{
 main{
     margin-left:20%;
 
+}
+
+p{
+    font-family: Berlin Sans FB;
+    margin-left: -10%;
+}
+
+h1{
+    font-family: Berlin Sans FB;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: -10%;
+}
+
+h2{
+    font-family: Berlin Sans FB;
+    text-decoration: none;
+    font-size: 16px;
+    margin-left: -10%;
 }
